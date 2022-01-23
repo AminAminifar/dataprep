@@ -1,9 +1,6 @@
 # dataprep
 
-For generating samples from raw data, please run data_prep.
-
-
-
+For generating samples from raw data, please run data_prep. The Depresjon Dataset is available on https://datasets.simula.no/depresjon/
 
 For running PPD-ERT:<br/>
 Please find the source code for PPD-ERT at https://github.com/AminAminifar/PPD-ERT.<br/>
