@@ -13,3 +13,15 @@ https://ieeexplore.ieee.org/abstract/document/9630592
 
 
 Video: https://www.youtube.com/watch?v=qs0Aqw4I3VQ&list=PLYYUdaOofPGimow72H1JwgchGvUPY4YW3&index=3
+
+## Citation
+```
+@inproceedings{aminifar2021monitoring,
+  author={Aminifar, Amin and Rabbi, Fazle and Pun, Violet Ka I and Lamo, Yngve},
+  booktitle={2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)}, 
+  title={Monitoring Motor Activity Data for Detecting Patients’ Depression Using Data Augmentation and Privacy-Preserving Distributed Learning}, 
+  year={2021},
+  pages={2163-2169},
+  doi={10.1109/EMBC46164.2021.9630592}}
+
+```
