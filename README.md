@@ -23,5 +23,4 @@ Video: https://www.youtube.com/watch?v=qs0Aqw4I3VQ&list=PLYYUdaOofPGimow72H1Jwgc
   year={2021},
   pages={2163-2169},
   doi={10.1109/EMBC46164.2021.9630592}}
-
 ```
